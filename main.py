@@ -1,0 +1,3 @@
+class shearFlows:
+  None
+  
